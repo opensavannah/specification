@@ -84,7 +84,7 @@ You can also see deployments of the Ohana API and compatible APIs [here](https:/
 
 ### Who do I contact if I need help with this project?
 
-You can contact Greg Bloom ([@greggish](https://github.com/greggish) | [bloom@openreferral.org](mailto:bloom@openreferral.org), the chief organizing officer for Open Referral.
+You can contact Greg Bloom ([@greggish](https://github.com/greggish) | [bloom@openreferral.org](mailto:bloom@openreferral.org)), the chief organizing officer for Open Referral.
 
 
 ### What languages is this project in?
@@ -104,7 +104,7 @@ You could also look through [our Issues queue](https://github.com/openreferral/s
 
 ### Is the project in active development?
 
-The Human Services Data Specification is entering an upgrade phase of development, under the interim leadership of the [Open Data Services Cooperative](https://opendataservices.coop). [Check out our issues queue](https://github.com/openreferral/specification/issues).
+The Human Services Data Specification is entering an upgrade phase of development, under the interim leadership of the [Open Data Services Cooperative](http://opendataservices.coop). [Check out our issues queue](https://github.com/openreferral/specification/issues).
 
 We are seeking sponsorship to support long-term institutional development of Open Referral and our data specification. Please reach out to [info@openreferral.org](mailto:info@openreferral.org) for more information.
 
